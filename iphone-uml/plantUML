@@ -1,5 +1,5 @@
 @startuml
-title Orientação a Objetos e UML: Diagramação de Classes do iPhone
+title Diagramação de Classes do iPhone
 
 skinparam classAttributeIconSize 0
 
